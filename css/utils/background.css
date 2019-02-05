@@ -1,0 +1,19 @@
+.background-primary {
+	background-color: var(--color-primary);
+}
+
+.background-secondary {
+	background-color: var(--color-secondary);
+}
+
+.background-light {
+	background-color: var(--color-light);
+}
+
+.background-dark {
+	background-color: var(--color-dark);
+}
+
+.border-primary {
+	border-color: var(--color-primary);
+}

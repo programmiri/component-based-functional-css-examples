@@ -1,0 +1,33 @@
+.Quote {
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.Quote .Quote-text {
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	border-left: 10px solid var(--color-primary);
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	padding-left: 2rem;
+	font-size: 1.25rem;
+}
+
+.Quote .Quote-text:before {
+	color: var(--color-primary);
+	content: open-quote;
+	font-size: 4em;
+	line-height: 0.1em;
+	margin-right: 0.25em;
+	vertical-align: -0.4em;
+}
+
+.Quote .Quote-cite {
+	font-style: italic;
+	padding-left: 2rem;
+}
+
+.Quote .Quote-cite:before {
+	content: '– ';
+}

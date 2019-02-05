@@ -1,0 +1,62 @@
+.container {
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.container-fluid {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6 {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.col-1 {
+  flex: 0 0 16.66666666667%;
+  max-width: 16.66666666667%;
+}
+
+.col-2 {
+  flex: 0 0 calc(16.66666666667% * 2);
+  max-width: calc(16.66666666667% * 2);
+}
+
+.col-3 {
+  flex: 0 0 calc(16.66666666667% * 3);
+  max-width: calc(16.66666666667% * 3);
+}
+
+.col-4 {
+  flex: 0 0 calc(16.66666666667% * 4);
+  max-width: calc(16.66666666667% * 4);
+}
+
+.col-5 {
+  flex-: 0 0 calc(16.66666666667% * 5);
+  max-width: calc(16.66666666667% * 5);
+}
+
+.col-6 {
+  flex: 0 0 100%;
+  max-width: 100%;
+}

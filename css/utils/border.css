@@ -1,0 +1,20 @@
+.borderd {
+	border-width: 1px;
+	border-style: solid;
+}
+
+.border-primary {
+	border-color: var(--color-secondary);
+}
+
+.border-secondary {
+	border-color: var(--color-secondary);
+}
+
+.border-dark {
+	border-color: var(--color-dark);
+}
+
+.border-light {
+	border-color: var(--color-light);
+}

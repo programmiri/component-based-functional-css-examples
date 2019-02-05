@@ -1,0 +1,15 @@
+.Header {
+	height: 75vh;
+}
+
+.Header.Header-bg-img {
+	background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)),
+		url('../../img/ruby01.jpg') left top / cover no-repeat fixed;
+}
+
+.Header .Header-textline {
+	font-family: var(--font-headline);
+	color: var(--color-secondary);
+	font-size: 4.5rem;
+	line-height: 1.1;
+}

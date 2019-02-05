@@ -1,0 +1,52 @@
+.text-primary {
+	color: var(--color-primary);
+}
+.text-secondary {
+	color: var(--color-secondary);
+}
+.text-dark {
+	color: var(--color-dark);
+}
+.text-light {
+	color: var(--color-light);
+}
+
+.text-small {
+	font-size: 0.75rem;
+}
+
+.text-big {
+	font-size: 1.25rem;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-left {
+	text-align: left;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.text-justify {
+	text-align: justify;
+}
+
+.text-lowercase {
+	text-transform: lowercase;
+}
+
+.text-uppercase {
+	text-transform: uppercase;
+}
+
+.text-capitalize {
+	text-transform: capitalize;
+}
+
+.text-decoration-none {
+	text-decoration: none;
+}
