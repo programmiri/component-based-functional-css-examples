@@ -35,5 +35,5 @@ https://hackernoon.com/all-you-need-to-know-about-css-in-js-984a72d48ebc)
 - [On the Growing Popularity of Atomic CSS](https://css-tricks.com/growing-popularity-atomic-css/)
 
 ## 👩‍💻 Resources 
-- [List with functional CSS Framworks](https://github.com/topics/functional-css)
+- [List with functional CSS Frameworks](https://github.com/topics/functional-css)
 - [Airbnb CSS styleguide](https://github.com/airbnb/css)
