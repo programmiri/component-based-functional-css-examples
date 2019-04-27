@@ -1,7 +1,7 @@
 # Component-based functional CSS - Examples
 
 ## ℹ️ Infos 
-This is a examples from my talk about component-based functional CSS I gave at [c't <webdev>](https://ctwebdev.de/) in February 2019.
+This is an example from my talk about component-based functional CSS I gave at [c't <webdev>](https://ctwebdev.de/) in February 2019.
 
 You can find the [sildes](https://speakerdeck.com/programmiri/my-approach-to-a-component-based-css-f601400d-28ff-4b74-b3e2-5009b768d236) at my [speakerdeck profil](https://speakerdeck.com/programmiri).
 
@@ -31,8 +31,8 @@ https://hackernoon.com/all-you-need-to-know-about-css-in-js-984a72d48ebc)
 
 ### More about functional CSS
 - [Functional CSS](https://www.mikecr.it/ramblings/functional-css/)
-https://engineeringblog.yelp.com/2018/03/css-in-the-age-of-react.html
-[On the Growing Popularity of Atomic CSS ]https://css-tricks.com/growing-popularity-atomic-css/
+- [CSS in the Age of React](https://engineeringblog.yelp.com/2018/03/css-in-the-age-of-react.html)
+- [On the Growing Popularity of Atomic CSS](https://css-tricks.com/growing-popularity-atomic-css/)
 
 ## 👩‍💻 Resources 
 - [List with functional CSS Framworks](https://github.com/topics/functional-css)
