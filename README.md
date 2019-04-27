@@ -16,7 +16,7 @@ You can find the [slides](https://speakerdeck.com/programmiri/my-approach-to-a-c
 ### Methodologies
 - [BEM](https://css-tricks.com/bem-101/)
 - [OOCSS](https://github.com/stubbornella/oocss/wiki)
-- [SMACSS](https://smacss.com/)
+- [SMACSS](http://smacss.com/)
 - [CCSS](http://sathify.github.io/CCSS/)
 - [DRY CSS](https://vanseodesign.com/css/dry-principles/)
 - [Atomic CSS](https://css-tricks.com/lets-define-exactly-atomic-css/)
