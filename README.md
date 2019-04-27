@@ -3,7 +3,7 @@
 ## ℹ️ Infos 
 This is an example from my talk about component-based functional CSS I gave at [c't <webdev>](https://ctwebdev.de/) in February 2019.
 
-You can find the [sildes](https://speakerdeck.com/programmiri/my-approach-to-a-component-based-css-f601400d-28ff-4b74-b3e2-5009b768d236) at my [speakerdeck profil](https://speakerdeck.com/programmiri).
+You can find the [slides](https://speakerdeck.com/programmiri/my-approach-to-a-component-based-css-f601400d-28ff-4b74-b3e2-5009b768d236) at my [speakerdeck profil](https://speakerdeck.com/programmiri).
 
 ## 📖 Further reading links 
 
