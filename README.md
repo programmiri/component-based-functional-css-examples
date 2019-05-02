@@ -1,17 +1,21 @@
 # Component-based functional CSS - Examples
 
 ## ℹ️ Infos 
-This is an example from my talk about component-based functional CSS I gave at [c't <webdev>](https://ctwebdev.de/) in February 2019.
+This is a example for my approach to a functional and component-based CSS structure. 
 
-You can find the [slides](https://speakerdeck.com/programmiri/my-approach-to-a-component-based-css-f601400d-28ff-4b74-b3e2-5009b768d236) at my [speakerdeck profil](https://speakerdeck.com/programmiri).
+I talked about this topic at [FrontConf](https://frontconf.com/) in April 2019. Here you can find the [slides](https://speakerdeck.com/programmiri/organise-your-styles-with-component-based-css-approach).
+
+I also gave a talk about it at [c't < webdev >](https://ctwebdev.de/) in February 2019. You can find the [slides here](https://speakerdeck.com/programmiri/my-approach-to-a-component-based-css-f601400d-28ff-4b74-b3e2-5009b768d236).
 
 ## 📖 Further reading links 
+
+I wrote an article about how I implement this approach in combination with Bootstrap:
+ - [My favored SCSS setup with Bootstrap 4](https://medium.com/@programmiri/my-favored-scss-setup-with-bootstrap-4-547e9ea290f8)
 
 ### Mixed Readings
 - [Atomic Webdesign](http://bradfrost.com/blog/post/atomic-web-design/)
 - [Separation of concerns in CSS](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
 - [Sass Color Variables That Don’t Suck](https://davidwalsh.name/sass-color-variables-dont-suck)
-- [My favored SCSS setup with Bootstrap 4](https://medium.com/@programmiri/my-favored-scss-setup-with-bootstrap-4-547e9ea290f8)
 
 ### Methodologies
 - [BEM](https://css-tricks.com/bem-101/)
